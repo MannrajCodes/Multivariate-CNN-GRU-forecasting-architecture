@@ -1,0 +1,7 @@
+.venv/ 
+plots/ 
+.DS_Store 
+saved_models/ 
+*.npz 
+*.pyc 
+__pycache__/ 
